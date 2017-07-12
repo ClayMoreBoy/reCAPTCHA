@@ -21,6 +21,6 @@
 
 [1]: http://typecho.org/about
 
-[2]: https://www.google.com/recaptcha/
+[2]: https://github.com/google/recaptcha
 
 [3]: https://www.google.com/recaptcha/admin/create
