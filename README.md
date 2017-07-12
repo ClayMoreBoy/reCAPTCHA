@@ -1,4 +1,4 @@
-[typecho][1]验证码插件，使用Google的[reCAPTCHA][2]接口
+[typecho][1]验证码插件，使用Google的[reCAPTCHA v2][2]接口
 ======
 
 #### 使用方法：
